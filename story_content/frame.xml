@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="جدول نظام دار" />
+              <option name="title_text" value="الگو" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -203,7 +203,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00001100101">
+    <colorscheme name="npnxnanbnsnfns00001100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1120,7 +1120,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00001100101">
+    <string_table name="npnxnanbnsnfns00001100101">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1286,17 +1286,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5cuIblj65lP" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6WqcQFQkiCl" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5cuIblj65lP.6XYzi2j6yv1" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.62ixFgxLQaS" displaytext="هشت" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.6UeZh23LUSN" displaytext="نه" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.5u3cdf4HzRt" displaytext="ده" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.6qSHk3FJ2hV" displaytext="شش" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.5bDw1YmcEUM" displaytext="هفت" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.6e9Anjo7ZrB" displaytext="پنج" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.6qPvWXiBUkU" displaytext="چهار" expand="false" type="slide" />
-            <slidelink slideid="_player.5cuIblj65lP.60ylY0YK44J" displaytext="سه" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6otViLpUWOG" displaytext="Drag and Drop" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
